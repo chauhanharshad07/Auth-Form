@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+
+}
+.set{
+    margin: 10px 0px 10px 0px;
+}
+label{
+    font-size: 20px;
+    color: white;
+    padding-right: 20px;
+}
+input{
+    border-radius: 20px;
+    padding: 5px 20px !important;
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.112);
+    margin-bottom: 10px !important;
+    color: white;
+    outline: none;
+}
+span{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    color:black;
+
+}
+.tag{
+    color: blue;
+    font-weight: 400 !important;
+}
+.lgbtn{
+    margin-top: 10px;
+    width: 100%;
+}
+.lgbtn:hover{
+    background-color: black;
+    color: white;
+}
+.newline{
+    display: block;
+}
